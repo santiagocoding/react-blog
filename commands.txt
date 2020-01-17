@@ -6,5 +6,28 @@ node index.js
 
 //mongodb
 mongodb+srv://brightstar:<password>@react-blog-ic8ya.mongodb.net/test?retryWrites=true&w=majority
+mongodb+srv://brightstar:<password>@react-blog-ic8ya.mongodb.net/test?retryWrites=true&w=majority
 
+mongodb+srv://brightstar:Notouch217$@react-blog-vhiny.mongodb.net/test?
+retryWrites=true&w=majority
+
+
+mongodb+srv://brightstar:Notouch217$@react-blog-vhiny.mongodb.net/test?retryWrites=true&w=majority
 npm install mongoose@5.4.20 --save
+
+//git
+git init
+git status
+git add .
+git commit -m "initial"
+
+ssh-keygen -t rsa -b 4096 -C "brightstar217118@gmail.com"
+
+
+npm install body-parser@1.18.3 --save
+
+npm install cookie-parser@1.4.3 --save
+
+npm install nodemon --save-dev
+
+npm run backend
