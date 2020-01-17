@@ -1,0 +1,10 @@
+npm init
+
+npm install express --save
+
+node index.js
+
+//mongodb
+mongodb+srv://brightstar:<password>@react-blog-ic8ya.mongodb.net/test?retryWrites=true&w=majority
+
+npm install mongoose@5.4.20 --save
